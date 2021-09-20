@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://172.31.12.178:8081/repository/Project-mvn-Release/</url>
+	      <url>http://172.31.12.178:8081/repository/ebay-backtoschool-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://172.31.12.178:8081/repository/project-snapshot-mvn/</url>
+	      <url>http://172.31.12.178:8081/repository/ebay-backtoschool-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
